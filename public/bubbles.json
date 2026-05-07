@@ -1,0 +1,6 @@
+[
+  { "name": "Brazzaville", "lat": -4.2634, "lon": 15.2429, "value": 120 },
+  { "name": "Pointe-Noire", "lat": -4.7692, "lon": 11.8664, "value": 80 },
+  { "name": "Dolisie", "lat": -4.1983, "lon": 12.6666, "value": 40 },
+  { "name": "Oyo", "lat": -1.056, "lon": 15.952, "value": 30 }
+]

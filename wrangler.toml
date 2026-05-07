@@ -1,0 +1,6 @@
+name = "easytrans"
+compatibility_date = "2025-09-22"
+pages_build_output_dir = "out"
+
+[env.production]
+pages_build_output_dir = "out"

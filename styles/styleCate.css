@@ -1,0 +1,13 @@
+/* app/globals.css - ajouter ceci */
+.bubble-tooltip {
+  backdrop-filter: blur(4px);
+  transition: opacity 0.2s ease;
+}
+
+/* Style responsive pour la carte */
+@media (max-width: 768px) {
+  .bubble-tooltip {
+    font-size: 12px;
+    padding: 6px 10px;
+  }
+}
